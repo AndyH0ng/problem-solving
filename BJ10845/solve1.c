@@ -15,14 +15,10 @@ int main(void) {
     scanf("%d", &n);
     while (n--) {
         scanf("%s", ch);
-        if (strcmp(ch, "push") == 0) {
-            int x;
-            scanf("%d", &x);
-            queue[i++] = x;
-        } else if (strcmp(ch, "pop") == 0) {
-            if (i == 0) {
-                printf("%d\n", -1);
-            } else {
+        if (!strcmp(ch, "push")) {
+            scanf("%d", &queue[i++]);
+        } else if (!strcmp(ch, "pop")) {
+            if (i) {
                 printf("%d\n", queue[0]);
                 int j = 0;
                 while (j < i) {
@@ -30,14 +26,16 @@ int main(void) {
                     j++;
                 }
                 i--;
+            } else {
+                printf("%d\n", -1);
             }
-        } else if (strcmp(ch, "size") == 0) {
+        } else if (!strcmp(ch, "size")) {
             printf("%d\n", i);
-        } else if (strcmp(ch, "empty") == 0) {
+        } else if (!strcmp(ch, "empty")) {
             printf("%d\n", i ? 0 : 1);
-        } else if (strcmp(ch, "front") == 0) {
+        } else if (!strcmp(ch, "front")) {
             printf("%d\n", i ? queue[0] : -1);
-        } else if (strcmp(ch, "back") == 0) {
+        } else if (!strcmp(ch, "back")) {
             printf("%d\n", i ? queue[i - 1] : -1);
         }
     }

@@ -23,7 +23,6 @@ int cmp(const void *p, const void *q) {
     return *(int *)p > *(int *)q ? 1 : (*(int *)p < *(int *)q ? -1 : 0);
 }
 
-
 int main(void) {
     int n, m, find;
     scanf("%d", &n);
