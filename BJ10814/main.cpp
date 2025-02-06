@@ -2,7 +2,7 @@
 //  나이순 정렬
 //  BJ10814
 //
-//  Created by 홍준우 on 7/15/24.
+//  Created by 준우 on 7/15/24.
 //
 
 #include <iostream>

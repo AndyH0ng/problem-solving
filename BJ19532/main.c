@@ -2,7 +2,7 @@
 //  수학은 비대면강의입니다
 //  BJ19532
 //
-//  Created by 홍준우 on 8/7/24.
+//  Created by 준우 on 8/7/24.
 //
 
 #include <stdio.h>

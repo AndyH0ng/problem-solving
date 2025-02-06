@@ -2,7 +2,7 @@
 //  웰컴 키트
 //  BJ30802
 //
-//  Created by 홍준우 on 6/24/24.
+//  Created by 준우 on 6/24/24.
 //
 
 #include <stdio.h>

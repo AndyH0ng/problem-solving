@@ -2,7 +2,7 @@
 //  막대기
 //  BJ17608
 //
-//  Created by 홍준우 on 7/2/24.
+//  Created by 준우 on 7/2/24.
 //
 
 #include <iostream>

@@ -14,12 +14,17 @@
 		88075F302C57B99D0060FDC2 /* solve2.c in Sources */ = {isa = PBXBuildFile; fileRef = 88075F2C2C57B99D0060FDC2 /* solve2.c */; };
 		88075F3E2C57B9C90060FDC2 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 88075F3C2C57B9C90060FDC2 /* main.c */; };
 		88075F4C2C59228E0060FDC2 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 88075F4A2C59228E0060FDC2 /* main.c */; };
+		8808D2962C81014200FC5177 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8808D2942C81014200FC5177 /* main.cpp */; };
 		881197DD2C41301A00CC1E69 /* solve2.c in Sources */ = {isa = PBXBuildFile; fileRef = 881197CC2C4128C800CC1E69 /* solve2.c */; };
 		881197DE2C41302200CC1E69 /* solve1.c in Sources */ = {isa = PBXBuildFile; fileRef = 881197D72C412CE700CC1E69 /* solve1.c */; };
 		881197FC2C4246B800CC1E69 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 881197FB2C4246B800CC1E69 /* main.cpp */; };
 		881198072C42565A00CC1E69 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 881198062C42565A00CC1E69 /* main.c */; };
 		8811981D2C43829500CC1E69 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 8811981C2C43829500CC1E69 /* main.c */; };
 		881198292C438D4500CC1E69 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 881198282C438D4500CC1E69 /* main.c */; };
+		8815E5282C857CAC00859DF6 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 8815E5262C857CAC00859DF6 /* main.c */; };
+		8815E52B2C85855300859DF6 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8815E5292C85855300859DF6 /* main.cpp */; };
+		8815E56D2C85B47800859DF6 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8815E56B2C85B47800859DF6 /* main.cpp */; };
+		8815E59A2C85C3B300859DF6 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 8815E5982C85C3B300859DF6 /* main.c */; };
 		881699FD2C22AAA2004C71F6 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 881699FC2C22AAA2004C71F6 /* main.cpp */; };
 		88169A082C22AAD9004C71F6 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 88169A072C22AAD9004C71F6 /* main.cpp */; };
 		88169A132C22AB0A004C71F6 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 88169A122C22AB0A004C71F6 /* main.cpp */; };
@@ -146,8 +151,12 @@
 		886A4BAB2C3E95FE00D7A2A1 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 886A4BAA2C3E95FE00D7A2A1 /* main.c */; };
 		886A4BB62C3E966100D7A2A1 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 886A4BB52C3E966100D7A2A1 /* main.c */; };
 		886A4BCC2C3EA24700D7A2A1 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 886A4BCB2C3EA24700D7A2A1 /* main.cpp */; };
+		887041692CA503ED00FEE356 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 887041672CA503ED00FEE356 /* main.c */; };
+		8870416C2CA5040800FEE356 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 8870416A2CA5040800FEE356 /* main.c */; };
+		88975F222D4DE02F00CE5B90 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 88975F202D4DE02F00CE5B90 /* main.cpp */; };
+		889DD1022CD0AFB6003D510A /* solve2.c in Sources */ = {isa = PBXBuildFile; fileRef = 889DD0FF2CD0AFB6003D510A /* solve2.c */; };
+		889DD1042CD0AFB6003D510A /* solve1.c in Sources */ = {isa = PBXBuildFile; fileRef = 889DD1002CD0AFB6003D510A /* solve1.c */; };
 		88B54C132C4817EF004835A3 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 88B54C122C4817EF004835A3 /* main.c */; };
-		88B54C3F2C48F36D004835A3 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 88B54C3E2C48F36D004835A3 /* main.c */; };
 		88C8FACA2C5F204F00F92538 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 88C8FAC82C5F204F00F92538 /* main.c */; };
 		88C8FAD22C5F2C6800F92538 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 88C8FAD12C5F2C6800F92538 /* main.c */; };
 		88C8FAE82C6382F500F92538 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 88C8FAE72C6382F500F92538 /* main.c */; };
@@ -168,6 +177,10 @@
 		88D5601F2C7FA85A0046A105 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 88D5601D2C7FA85A0046A105 /* main.c */; };
 		88D560222C7FA85E0046A105 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 88D560202C7FA85E0046A105 /* main.c */; };
 		88D5604E2C7FB56F0046A105 /* main.s in Sources */ = {isa = PBXBuildFile; fileRef = 88D5604D2C7FB56F0046A105 /* main.s */; };
+		88DE23382CA68DD800D07972 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 88DE23372CA68DD800D07972 /* main.cpp */; };
+		88F6A59E2D54B2C900BE5EED /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 88F6A59C2D54B2C900BE5EED /* main.c */; };
+		88F6A5AC2D54C6B200BE5EED /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 88F6A5AA2D54C6B200BE5EED /* main.c */; };
+		88FC4EF22CAFF08A002F89B0 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 88FC4EF02CAFF08A002F89B0 /* main.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -208,6 +221,15 @@
 			runOnlyForDeploymentPostprocessing = 1;
 		};
 		88075F412C5922860060FDC2 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		8808D28B2C80FE0500FC5177 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -271,6 +293,42 @@
 			runOnlyForDeploymentPostprocessing = 1;
 		};
 		88154A372C662E3800146EF7 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		8815E51D2C857CA400859DF6 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		8815E5392C858EFB00859DF6 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		8815E5442C8596BC00859DF6 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		8815E58F2C85BF5C00859DF6 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -1035,6 +1093,15 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
+		883EC6CB2C83286300F8647D /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 		884420372C70838900BD809A /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -1090,15 +1157,6 @@
 			runOnlyForDeploymentPostprocessing = 1;
 		};
 		884420992C747D5D00BD809A /* CopyFiles */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = /usr/share/man/man1/;
-			dstSubfolderSpec = 0;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 1;
-		};
-		884420B22C74B87D00BD809A /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -1422,7 +1480,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
-		88B54C0E2C4817EF004835A3 /* CopyFiles */ = {
+		8870415E2CA4F82000FEE356 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -1431,7 +1489,34 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
-		88B54C3A2C48F36D004835A3 /* CopyFiles */ = {
+		88975F172D4DE01E00CE5B90 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		889DD0E92CD0AF47003D510A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		889DD0F42CD0AF7C003D510A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		88B54C0E2C4817EF004835A3 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -1611,15 +1696,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
-		88D55FFE2C7F8B0E0046A105 /* CopyFiles */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = /usr/share/man/man1/;
-			dstSubfolderSpec = 0;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 1;
-		};
 		88D560092C7F9DB60046A105 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -1638,7 +1714,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
-		88D5603B2C7FB01B0046A105 /* CopyFiles */ = {
+		88DC0B212C53A0A10090B1FA /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -1647,7 +1723,43 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
-		88DC0B212C53A0A10090B1FA /* CopyFiles */ = {
+		88DE23332CA68DD800D07972 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		88DEAA9C2C9D0DB500FE7BC3 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		88F6A5932D54B29200BE5EED /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		88F6A5A12D54C68600BE5EED /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		88FC4EE72CAFD998002F89B0 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -1671,6 +1783,8 @@
 		88075F3C2C57B9C90060FDC2 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		88075F432C5922860060FDC2 /* BJ10994 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ10994; sourceTree = BUILT_PRODUCTS_DIR; };
 		88075F4A2C59228E0060FDC2 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		8808D28D2C80FE0500FC5177 /* BJ10816 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ10816; sourceTree = BUILT_PRODUCTS_DIR; };
+		8808D2942C81014200FC5177 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		881197CA2C4128C800CC1E69 /* BJ2003-2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "BJ2003-2"; sourceTree = BUILT_PRODUCTS_DIR; };
 		881197CC2C4128C800CC1E69 /* solve2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = solve2.c; sourceTree = "<group>"; };
 		881197D52C412CE700CC1E69 /* BJ2003-1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "BJ2003-1"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -1687,6 +1801,14 @@
 		8811982D2C438D5300CC1E69 /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
 		8811982E2C439A6700CC1E69 /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
 		88154A392C662E3800146EF7 /* BJ2805-2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "BJ2805-2"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8815E51F2C857CA400859DF6 /* BJ12789 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ12789; sourceTree = BUILT_PRODUCTS_DIR; };
+		8815E5262C857CAC00859DF6 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		8815E5292C85855300859DF6 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		8815E53B2C858EFB00859DF6 /* BJ1157 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ1157; sourceTree = BUILT_PRODUCTS_DIR; };
+		8815E5462C8596BC00859DF6 /* BJ10815 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ10815; sourceTree = BUILT_PRODUCTS_DIR; };
+		8815E56B2C85B47800859DF6 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		8815E5912C85BF5C00859DF6 /* BJ1193 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ1193; sourceTree = BUILT_PRODUCTS_DIR; };
+		8815E5982C85C3B300859DF6 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		881699F92C22AAA2004C71F6 /* BJ1000 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ1000; sourceTree = BUILT_PRODUCTS_DIR; };
 		881699FC2C22AAA2004C71F6 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		88169A052C22AAD9004C71F6 /* BJ2557 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ2557; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -1863,6 +1985,7 @@
 		883381A92C6F1B7400DCF446 /* timeout.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = timeout.c; sourceTree = "<group>"; };
 		883381B02C6F1B9800DCF446 /* BJ2805-1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "BJ2805-1"; sourceTree = BUILT_PRODUCTS_DIR; };
 		883381B22C6F1B9900DCF446 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		883EC6CD2C83286300F8647D /* BJ2908 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ2908; sourceTree = BUILT_PRODUCTS_DIR; };
 		884420392C70838900BD809A /* Test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Test; sourceTree = BUILT_PRODUCTS_DIR; };
 		884420442C70A95500BD809A /* BJ2675C */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ2675C; sourceTree = BUILT_PRODUCTS_DIR; };
 		884420462C70A95500BD809A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
@@ -1876,7 +1999,6 @@
 		884420922C746B7500BD809A /* solve2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = solve2.c; sourceTree = "<group>"; };
 		8844209B2C747D5D00BD809A /* BJ2161 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ2161; sourceTree = BUILT_PRODUCTS_DIR; };
 		884420A22C7484A200BD809A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
-		884420B42C74B87D00BD809A /* BJ2110 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ2110; sourceTree = BUILT_PRODUCTS_DIR; };
 		885F87752C3031BD00993F44 /* BJ2798 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ2798; sourceTree = BUILT_PRODUCTS_DIR; };
 		885F87772C3031BD00993F44 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		885F877C2C30358600993F44 /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
@@ -1957,10 +2079,17 @@
 		886A4BF52C3EB80400D7A2A1 /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
 		886A4BF62C3EE77B00D7A2A1 /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
 		886A4BF72C3EE99100D7A2A1 /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
+		887041602CA4F82000FEE356 /* BJ2630 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ2630; sourceTree = BUILT_PRODUCTS_DIR; };
+		887041672CA503ED00FEE356 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		8870416A2CA5040800FEE356 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		88975F192D4DE01E00CE5B90 /* BJ10988 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ10988; sourceTree = BUILT_PRODUCTS_DIR; };
+		88975F202D4DE02F00CE5B90 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		889DD0EB2CD0AF47003D510A /* BJ9655-2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "BJ9655-2"; sourceTree = BUILT_PRODUCTS_DIR; };
+		889DD0F62CD0AF7C003D510A /* BJ9655-1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "BJ9655-1"; sourceTree = BUILT_PRODUCTS_DIR; };
+		889DD0FF2CD0AFB6003D510A /* solve2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = solve2.c; sourceTree = "<group>"; };
+		889DD1002CD0AFB6003D510A /* solve1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = solve1.c; sourceTree = "<group>"; };
 		88B54C102C4817EF004835A3 /* BJ1920 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ1920; sourceTree = BUILT_PRODUCTS_DIR; };
 		88B54C122C4817EF004835A3 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
-		88B54C3C2C48F36D004835A3 /* BJ11005 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ11005; sourceTree = BUILT_PRODUCTS_DIR; };
-		88B54C3E2C48F36D004835A3 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		88C372842C50F6290087141E /* BJ4344 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ4344; sourceTree = BUILT_PRODUCTS_DIR; };
 		88C8FAC12C5F204300F92538 /* BJ2309 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ2309; sourceTree = BUILT_PRODUCTS_DIR; };
 		88C8FAC82C5F204F00F92538 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
@@ -1997,20 +2126,25 @@
 		88C8FBB12C64532E00F92538 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		88D55FF02C7F6E100046A105 /* BJ2493 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ2493; sourceTree = BUILT_PRODUCTS_DIR; };
 		88D55FF92C7F8AA00046A105 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		88D560002C7F8B0E0046A105 /* BJ2504 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ2504; sourceTree = BUILT_PRODUCTS_DIR; };
 		88D5600B2C7F9DB60046A105 /* BJ2010 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ2010; sourceTree = BUILT_PRODUCTS_DIR; };
 		88D560162C7FA1790046A105 /* BJ2903 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ2903; sourceTree = BUILT_PRODUCTS_DIR; };
 		88D5601D2C7FA85A0046A105 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		88D560202C7FA85E0046A105 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
-		88D5603D2C7FB01B0046A105 /* BJ2503 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ2503; sourceTree = BUILT_PRODUCTS_DIR; };
 		88D5604D2C7FB56F0046A105 /* main.s */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.asm; path = main.s; sourceTree = "<group>"; };
 		88DC0B232C53A0A10090B1FA /* BJ1158-1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "BJ1158-1"; sourceTree = BUILT_PRODUCTS_DIR; };
+		88DE23352CA68DD800D07972 /* BJ1436Cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ1436Cpp; sourceTree = BUILT_PRODUCTS_DIR; };
+		88DE23372CA68DD800D07972 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		88DEAA9E2C9D0DB500FE7BC3 /* BJ1629 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ1629; sourceTree = BUILT_PRODUCTS_DIR; };
+		88F6A5952D54B29200BE5EED /* BJ1074 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ1074; sourceTree = BUILT_PRODUCTS_DIR; };
+		88F6A59C2D54B2C900BE5EED /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		88F6A5A32D54C68600BE5EED /* BJ1780 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ1780; sourceTree = BUILT_PRODUCTS_DIR; };
+		88F6A5AA2D54C6B200BE5EED /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		88FC4EE92CAFD998002F89B0 /* BJ1010 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BJ1010; sourceTree = BUILT_PRODUCTS_DIR; };
+		88FC4EF02CAFF08A002F89B0 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		884420B52C74B87D00BD809A /* BJ2110 */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = BJ2110; sourceTree = "<group>"; };
-		88D560012C7F8B0E0046A105 /* BJ2504 */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = BJ2504; sourceTree = "<group>"; };
-		88D5603E2C7FB01B0046A105 /* BJ2503 */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = BJ2503; sourceTree = "<group>"; };
+		8815E5472C8596BC00859DF6 /* BJ10815 */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = BJ10815; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -2043,6 +2177,13 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		88075F402C5922860060FDC2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8808D28A2C80FE0500FC5177 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -2092,6 +2233,34 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		88154A362C662E3800146EF7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8815E51C2C857CA400859DF6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8815E5382C858EFB00859DF6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8815E5432C8596BC00859DF6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8815E58E2C85BF5C00859DF6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -2686,6 +2855,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		883EC6CA2C83286300F8647D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		884420362C70838900BD809A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -2729,13 +2905,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		884420982C747D5D00BD809A /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		884420B12C74B87D00BD809A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -2987,14 +3156,35 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		88B54C0D2C4817EF004835A3 /* Frameworks */ = {
+		8870415D2CA4F82000FEE356 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		88B54C392C48F36D004835A3 /* Frameworks */ = {
+		88975F162D4DE01E00CE5B90 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		889DD0E82CD0AF47003D510A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		889DD0F32CD0AF7C003D510A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		88B54C0D2C4817EF004835A3 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -3134,13 +3324,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		88D55FFD2C7F8B0E0046A105 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		88D560082C7F9DB60046A105 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -3155,14 +3338,42 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		88D5603A2C7FB01B0046A105 /* Frameworks */ = {
+		88DC0B202C53A0A10090B1FA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		88DC0B202C53A0A10090B1FA /* Frameworks */ = {
+		88DE23322CA68DD800D07972 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		88DEAA9B2C9D0DB500FE7BC3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		88F6A5922D54B29200BE5EED /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		88F6A5A02D54C68600BE5EED /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		88FC4EE62CAFD998002F89B0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -3221,6 +3432,14 @@
 			path = BJ10994;
 			sourceTree = "<group>";
 		};
+		8808D2952C81014200FC5177 /* BJ10816 */ = {
+			isa = PBXGroup;
+			children = (
+				8808D2942C81014200FC5177 /* main.cpp */,
+			);
+			path = BJ10816;
+			sourceTree = "<group>";
+		};
 		881197CB2C4128C800CC1E69 /* BJ2003 */ = {
 			isa = PBXGroup;
 			children = (
@@ -3265,6 +3484,38 @@
 			path = BJ1316;
 			sourceTree = "<group>";
 		};
+		8815E5272C857CAC00859DF6 /* BJ2908 */ = {
+			isa = PBXGroup;
+			children = (
+				8815E5262C857CAC00859DF6 /* main.c */,
+			);
+			path = BJ2908;
+			sourceTree = "<group>";
+		};
+		8815E52A2C85855300859DF6 /* BJ12789 */ = {
+			isa = PBXGroup;
+			children = (
+				8815E5292C85855300859DF6 /* main.cpp */,
+			);
+			path = BJ12789;
+			sourceTree = "<group>";
+		};
+		8815E56C2C85B47800859DF6 /* BJ1157 */ = {
+			isa = PBXGroup;
+			children = (
+				8815E56B2C85B47800859DF6 /* main.cpp */,
+			);
+			path = BJ1157;
+			sourceTree = "<group>";
+		};
+		8815E5992C85C3B300859DF6 /* BJ1193 */ = {
+			isa = PBXGroup;
+			children = (
+				8815E5982C85C3B300859DF6 /* main.c */,
+			);
+			path = BJ1193;
+			sourceTree = "<group>";
+		};
 		881699EA2C22AA16004C71F6 = {
 			isa = PBXGroup;
 			children = (
@@ -3277,8 +3528,10 @@
 				882B72472C453C61008208BB /* BJ1018 */,
 				88169D0A2C254CDC004C71F6 /* BJ1110 */,
 				88169E472C2C706F004C71F6 /* BJ1152 */,
+				8815E56C2C85B47800859DF6 /* BJ1157 */,
 				88075F2D2C57B99D0060FDC2 /* BJ1158 */,
 				88169E042C2C39DC004C71F6 /* BJ1181 */,
+				8815E5992C85C3B300859DF6 /* BJ1193 */,
 				88169D2B2C29479C004C71F6 /* BJ1259 */,
 				881198272C438D4500CC1E69 /* BJ1316 */,
 				88169AAD2C22C0E7004C71F6 /* BJ1330 */,
@@ -3293,7 +3546,6 @@
 				881197CB2C4128C800CC1E69 /* BJ2003 */,
 				88D5601E2C7FA85A0046A105 /* BJ2010 */,
 				88169DAF2C2997C4004C71F6 /* BJ2108 */,
-				884420B52C74B87D00BD809A /* BJ2110 */,
 				884420A32C7484A200BD809A /* BJ2161 */,
 				88C8FBB22C64532E00F92538 /* BJ2164 */,
 				8863F54F2C3063F80004BAD0 /* BJ2231 */,
@@ -3310,7 +3562,6 @@
 				88169C762C25078C004C71F6 /* BJ2480 */,
 				8844207F2C743C8700BD809A /* BJ2493 */,
 				88D55FFA2C7F8AA00046A105 /* BJ2493 */,
-				88D560012C7F8B0E0046A105 /* BJ2504 */,
 				88169C342C230890004C71F6 /* BJ2525 */,
 				88169A062C22AAD9004C71F6 /* BJ2557 */,
 				88169BF22C22FD59004C71F6 /* BJ2562 */,
@@ -3340,6 +3591,7 @@
 				8863F5702C306E920004BAD0 /* BJ2869 */,
 				88169C292C230439004C71F6 /* BJ2884 */,
 				88D560212C7FA85E0046A105 /* BJ2903 */,
+				8815E5272C857CAC00859DF6 /* BJ2908 */,
 				885F87AE2C304B9100993F44 /* BJ2920 */,
 				8863F57B2C30764A0004BAD0 /* BJ2941 */,
 				88C8FB6F2C63ADC000F92538 /* BJ3003 */,
@@ -3371,6 +3623,8 @@
 				88169CBC2C254090004C71F6 /* BJ10811 */,
 				88169CC72C254437004C71F6 /* BJ10813 */,
 				882B723C2C4525FB008208BB /* BJ10814 */,
+				8815E5472C8596BC00859DF6 /* BJ10815 */,
+				8808D2952C81014200FC5177 /* BJ10816 */,
 				88169C1E2C230239004C71F6 /* BJ10818 */,
 				8863F5A92C33A6FC0004BAD0 /* BJ10828 */,
 				8863F5EC2C33C3850004BAD0 /* BJ10845 */,
@@ -3385,7 +3639,6 @@
 				88169E102C2C5C9E004C71F6 /* BJ10989 */,
 				88075F4B2C59228E0060FDC2 /* BJ10994 */,
 				88169A862C22B2C0004C71F6 /* BJ10998 */,
-				88B54C3D2C48F36D004835A3 /* BJ11005 */,
 				88C8FB3A2C63A7C200F92538 /* BJ11021 */,
 				88C8FB482C63A82A00F92538 /* BJ11022 */,
 				88075F262C57B9950060FDC2 /* BJ11050 */,
@@ -3396,6 +3649,7 @@
 				88169B8F2C22E8F1004C71F6 /* BJ11654 */,
 				88169BBB2C22ED76004C71F6 /* BJ11718 */,
 				88169BB02C22EC7A004C71F6 /* BJ11720 */,
+				8815E52A2C85855300859DF6 /* BJ12789 */,
 				88169ACF2C22C768004C71F6 /* BJ14681 */,
 				88169C082C230096004C71F6 /* BJ15552 */,
 				88169BD12C22F0B7004C71F6 /* BJ15964 */,
@@ -3420,7 +3674,13 @@
 				88169D832C296624004C71F6 /* BJ28702 */,
 				88169D6D2C295FDB004C71F6 /* BJ30802 */,
 				88169C822C252AB9004C71F6 /* BJ31403 */,
-				88D5603E2C7FB01B0046A105 /* BJ2503 */,
+				8870416B2CA5040800FEE356 /* BJ1629 */,
+				887041682CA503ED00FEE356 /* BJ2630 */,
+				88FC4EF12CAFF08A002F89B0 /* BJ1010 */,
+				889DD1012CD0AFB6003D510A /* BJ9655 */,
+				88975F212D4DE02F00CE5B90 /* BJ10988 */,
+				88F6A59D2D54B2C900BE5EED /* BJ1074 */,
+				88F6A5AB2D54C6B200BE5EED /* BJ1780 */,
 				881699FA2C22AAA2004C71F6 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -3553,7 +3813,6 @@
 				882B723B2C4525FB008208BB /* BJ10814 */,
 				882B72462C453C60008208BB /* BJ1018 */,
 				88B54C102C4817EF004835A3 /* BJ1920 */,
-				88B54C3C2C48F36D004835A3 /* BJ11005 */,
 				88C372842C50F6290087141E /* BJ4344 */,
 				88DC0B232C53A0A10090B1FA /* BJ1158-1 */,
 				88075EF32C575BBF0060FDC2 /* BJ1158-2 */,
@@ -3587,12 +3846,24 @@
 				884420852C743DA900BD809A /* BJ2493C */,
 				884420902C746B7400BD809A /* BJ10845-2 */,
 				8844209B2C747D5D00BD809A /* BJ2161 */,
-				884420B42C74B87D00BD809A /* BJ2110 */,
 				88D55FF02C7F6E100046A105 /* BJ2493 */,
-				88D560002C7F8B0E0046A105 /* BJ2504 */,
 				88D5600B2C7F9DB60046A105 /* BJ2010 */,
 				88D560162C7FA1790046A105 /* BJ2903 */,
-				88D5603D2C7FB01B0046A105 /* BJ2503 */,
+				8808D28D2C80FE0500FC5177 /* BJ10816 */,
+				883EC6CD2C83286300F8647D /* BJ2908 */,
+				8815E51F2C857CA400859DF6 /* BJ12789 */,
+				8815E53B2C858EFB00859DF6 /* BJ1157 */,
+				8815E5462C8596BC00859DF6 /* BJ10815 */,
+				8815E5912C85BF5C00859DF6 /* BJ1193 */,
+				88DEAA9E2C9D0DB500FE7BC3 /* BJ1629 */,
+				887041602CA4F82000FEE356 /* BJ2630 */,
+				88DE23352CA68DD800D07972 /* BJ1436Cpp */,
+				88FC4EE92CAFD998002F89B0 /* BJ1010 */,
+				889DD0EB2CD0AF47003D510A /* BJ9655-2 */,
+				889DD0F62CD0AF7C003D510A /* BJ9655-1 */,
+				88975F192D4DE01E00CE5B90 /* BJ10988 */,
+				88F6A5952D54B29200BE5EED /* BJ1074 */,
+				88F6A5A32D54C68600BE5EED /* BJ1780 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -4234,6 +4505,7 @@
 			isa = PBXGroup;
 			children = (
 				88169E532C2C8826004C71F6 /* main.c */,
+				88DE23372CA68DD800D07972 /* main.cpp */,
 			);
 			path = BJ1436;
 			sourceTree = "<group>";
@@ -4599,20 +4871,45 @@
 			path = BJ1764;
 			sourceTree = "<group>";
 		};
+		887041682CA503ED00FEE356 /* BJ2630 */ = {
+			isa = PBXGroup;
+			children = (
+				887041672CA503ED00FEE356 /* main.c */,
+			);
+			path = BJ2630;
+			sourceTree = "<group>";
+		};
+		8870416B2CA5040800FEE356 /* BJ1629 */ = {
+			isa = PBXGroup;
+			children = (
+				8870416A2CA5040800FEE356 /* main.c */,
+			);
+			path = BJ1629;
+			sourceTree = "<group>";
+		};
+		88975F212D4DE02F00CE5B90 /* BJ10988 */ = {
+			isa = PBXGroup;
+			children = (
+				88975F202D4DE02F00CE5B90 /* main.cpp */,
+			);
+			path = BJ10988;
+			sourceTree = "<group>";
+		};
+		889DD1012CD0AFB6003D510A /* BJ9655 */ = {
+			isa = PBXGroup;
+			children = (
+				889DD1002CD0AFB6003D510A /* solve1.c */,
+				889DD0FF2CD0AFB6003D510A /* solve2.c */,
+			);
+			path = BJ9655;
+			sourceTree = "<group>";
+		};
 		88B54C112C4817EF004835A3 /* BJ1920 */ = {
 			isa = PBXGroup;
 			children = (
 				88B54C122C4817EF004835A3 /* main.c */,
 			);
 			path = BJ1920;
-			sourceTree = "<group>";
-		};
-		88B54C3D2C48F36D004835A3 /* BJ11005 */ = {
-			isa = PBXGroup;
-			children = (
-				88B54C3E2C48F36D004835A3 /* main.c */,
-			);
-			path = BJ11005;
 			sourceTree = "<group>";
 		};
 		88C8FAC92C5F204F00F92538 /* BJ2309 */ = {
@@ -4735,6 +5032,30 @@
 			path = BJ2903;
 			sourceTree = "<group>";
 		};
+		88F6A59D2D54B2C900BE5EED /* BJ1074 */ = {
+			isa = PBXGroup;
+			children = (
+				88F6A59C2D54B2C900BE5EED /* main.c */,
+			);
+			path = BJ1074;
+			sourceTree = "<group>";
+		};
+		88F6A5AB2D54C6B200BE5EED /* BJ1780 */ = {
+			isa = PBXGroup;
+			children = (
+				88F6A5AA2D54C6B200BE5EED /* main.c */,
+			);
+			path = BJ1780;
+			sourceTree = "<group>";
+		};
+		88FC4EF12CAFF08A002F89B0 /* BJ1010 */ = {
+			isa = PBXGroup;
+			children = (
+				88FC4EF02CAFF08A002F89B0 /* main.c */,
+			);
+			path = BJ1010;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXLegacyTarget section */
@@ -4847,6 +5168,25 @@
 			);
 			productName = BJ10994;
 			productReference = 88075F432C5922860060FDC2 /* BJ10994 */;
+			productType = "com.apple.product-type.tool";
+		};
+		8808D28C2C80FE0500FC5177 /* BJ10816 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8808D2932C80FE0500FC5177 /* Build configuration list for PBXNativeTarget "BJ10816" */;
+			buildPhases = (
+				8808D2892C80FE0500FC5177 /* Sources */,
+				8808D28A2C80FE0500FC5177 /* Frameworks */,
+				8808D28B2C80FE0500FC5177 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BJ10816;
+			packageProductDependencies = (
+			);
+			productName = BJ10816;
+			productReference = 8808D28D2C80FE0500FC5177 /* BJ10816 */;
 			productType = "com.apple.product-type.tool";
 		};
 		881197C92C4128C800CC1E69 /* BJ2003-2 */ = {
@@ -4968,6 +5308,85 @@
 			);
 			productName = BJ2805;
 			productReference = 88154A392C662E3800146EF7 /* BJ2805-2 */;
+			productType = "com.apple.product-type.tool";
+		};
+		8815E51E2C857CA400859DF6 /* BJ12789 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8815E5252C857CA400859DF6 /* Build configuration list for PBXNativeTarget "BJ12789" */;
+			buildPhases = (
+				8815E51B2C857CA400859DF6 /* Sources */,
+				8815E51C2C857CA400859DF6 /* Frameworks */,
+				8815E51D2C857CA400859DF6 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BJ12789;
+			packageProductDependencies = (
+			);
+			productName = BJ12789;
+			productReference = 8815E51F2C857CA400859DF6 /* BJ12789 */;
+			productType = "com.apple.product-type.tool";
+		};
+		8815E53A2C858EFB00859DF6 /* BJ1157 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8815E53F2C858EFB00859DF6 /* Build configuration list for PBXNativeTarget "BJ1157" */;
+			buildPhases = (
+				8815E5372C858EFB00859DF6 /* Sources */,
+				8815E5382C858EFB00859DF6 /* Frameworks */,
+				8815E5392C858EFB00859DF6 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BJ1157;
+			packageProductDependencies = (
+			);
+			productName = BJ1157;
+			productReference = 8815E53B2C858EFB00859DF6 /* BJ1157 */;
+			productType = "com.apple.product-type.tool";
+		};
+		8815E5452C8596BC00859DF6 /* BJ10815 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8815E54A2C8596BC00859DF6 /* Build configuration list for PBXNativeTarget "BJ10815" */;
+			buildPhases = (
+				8815E5422C8596BC00859DF6 /* Sources */,
+				8815E5432C8596BC00859DF6 /* Frameworks */,
+				8815E5442C8596BC00859DF6 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				8815E5472C8596BC00859DF6 /* BJ10815 */,
+			);
+			name = BJ10815;
+			packageProductDependencies = (
+			);
+			productName = BJ10815;
+			productReference = 8815E5462C8596BC00859DF6 /* BJ10815 */;
+			productType = "com.apple.product-type.tool";
+		};
+		8815E5902C85BF5C00859DF6 /* BJ1193 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8815E5972C85BF5C00859DF6 /* Build configuration list for PBXNativeTarget "BJ1193" */;
+			buildPhases = (
+				8815E58D2C85BF5C00859DF6 /* Sources */,
+				8815E58E2C85BF5C00859DF6 /* Frameworks */,
+				8815E58F2C85BF5C00859DF6 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BJ1193;
+			packageProductDependencies = (
+			);
+			productName = BJ1193;
+			productReference = 8815E5912C85BF5C00859DF6 /* BJ1193 */;
 			productType = "com.apple.product-type.tool";
 		};
 		881699F82C22AAA2004C71F6 /* BJ1000 */ = {
@@ -6400,6 +6819,25 @@
 			productReference = 883381B02C6F1B9800DCF446 /* BJ2805-1 */;
 			productType = "com.apple.product-type.tool";
 		};
+		883EC6CC2C83286300F8647D /* BJ2908 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 883EC6D12C83286300F8647D /* Build configuration list for PBXNativeTarget "BJ2908" */;
+			buildPhases = (
+				883EC6C92C83286300F8647D /* Sources */,
+				883EC6CA2C83286300F8647D /* Frameworks */,
+				883EC6CB2C83286300F8647D /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BJ2908;
+			packageProductDependencies = (
+			);
+			productName = BJ2908;
+			productReference = 883EC6CD2C83286300F8647D /* BJ2908 */;
+			productType = "com.apple.product-type.tool";
+		};
 		884420382C70838900BD809A /* Test */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8844203F2C70838900BD809A /* Build configuration list for PBXNativeTarget "Test" */;
@@ -6531,28 +6969,6 @@
 			);
 			productName = BJ2161;
 			productReference = 8844209B2C747D5D00BD809A /* BJ2161 */;
-			productType = "com.apple.product-type.tool";
-		};
-		884420B32C74B87D00BD809A /* BJ2110 */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 884420B82C74B87D00BD809A /* Build configuration list for PBXNativeTarget "BJ2110" */;
-			buildPhases = (
-				884420B02C74B87D00BD809A /* Sources */,
-				884420B12C74B87D00BD809A /* Frameworks */,
-				884420B22C74B87D00BD809A /* CopyFiles */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				884420B52C74B87D00BD809A /* BJ2110 */,
-			);
-			name = BJ2110;
-			packageProductDependencies = (
-			);
-			productName = BJ2110;
-			productReference = 884420B42C74B87D00BD809A /* BJ2110 */;
 			productType = "com.apple.product-type.tool";
 		};
 		885F87742C3031BD00993F44 /* BJ2798 */ = {
@@ -7150,6 +7566,82 @@
 			productReference = 886A4BC92C3EA24700D7A2A1 /* BJ9012Cpp */;
 			productType = "com.apple.product-type.tool";
 		};
+		8870415F2CA4F82000FEE356 /* BJ2630 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 887041662CA4F82000FEE356 /* Build configuration list for PBXNativeTarget "BJ2630" */;
+			buildPhases = (
+				8870415C2CA4F82000FEE356 /* Sources */,
+				8870415D2CA4F82000FEE356 /* Frameworks */,
+				8870415E2CA4F82000FEE356 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BJ2630;
+			packageProductDependencies = (
+			);
+			productName = BJ2630;
+			productReference = 887041602CA4F82000FEE356 /* BJ2630 */;
+			productType = "com.apple.product-type.tool";
+		};
+		88975F182D4DE01E00CE5B90 /* BJ10988 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 88975F1F2D4DE01E00CE5B90 /* Build configuration list for PBXNativeTarget "BJ10988" */;
+			buildPhases = (
+				88975F152D4DE01E00CE5B90 /* Sources */,
+				88975F162D4DE01E00CE5B90 /* Frameworks */,
+				88975F172D4DE01E00CE5B90 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BJ10988;
+			packageProductDependencies = (
+			);
+			productName = BJ10988;
+			productReference = 88975F192D4DE01E00CE5B90 /* BJ10988 */;
+			productType = "com.apple.product-type.tool";
+		};
+		889DD0EA2CD0AF47003D510A /* BJ9655-2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 889DD0F12CD0AF48003D510A /* Build configuration list for PBXNativeTarget "BJ9655-2" */;
+			buildPhases = (
+				889DD0E72CD0AF47003D510A /* Sources */,
+				889DD0E82CD0AF47003D510A /* Frameworks */,
+				889DD0E92CD0AF47003D510A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "BJ9655-2";
+			packageProductDependencies = (
+			);
+			productName = BJ9655;
+			productReference = 889DD0EB2CD0AF47003D510A /* BJ9655-2 */;
+			productType = "com.apple.product-type.tool";
+		};
+		889DD0F52CD0AF7C003D510A /* BJ9655-1 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 889DD0FA2CD0AF7D003D510A /* Build configuration list for PBXNativeTarget "BJ9655-1" */;
+			buildPhases = (
+				889DD0F22CD0AF7C003D510A /* Sources */,
+				889DD0F32CD0AF7C003D510A /* Frameworks */,
+				889DD0F42CD0AF7C003D510A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "BJ9655-1";
+			packageProductDependencies = (
+			);
+			productName = "BJ9655-1";
+			productReference = 889DD0F62CD0AF7C003D510A /* BJ9655-1 */;
+			productType = "com.apple.product-type.tool";
+		};
 		88B54C0F2C4817EF004835A3 /* BJ1920 */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 88B54C162C4817EF004835A3 /* Build configuration list for PBXNativeTarget "BJ1920" */;
@@ -7165,23 +7657,6 @@
 			name = BJ1920;
 			productName = BJ1920;
 			productReference = 88B54C102C4817EF004835A3 /* BJ1920 */;
-			productType = "com.apple.product-type.tool";
-		};
-		88B54C3B2C48F36D004835A3 /* BJ11005 */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 88B54C422C48F36D004835A3 /* Build configuration list for PBXNativeTarget "BJ11005" */;
-			buildPhases = (
-				88B54C382C48F36D004835A3 /* Sources */,
-				88B54C392C48F36D004835A3 /* Frameworks */,
-				88B54C3A2C48F36D004835A3 /* CopyFiles */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = BJ11005;
-			productName = BJ11005;
-			productReference = 88B54C3C2C48F36D004835A3 /* BJ11005 */;
 			productType = "com.apple.product-type.tool";
 		};
 		88C372832C50F6290087141E /* BJ4344 */ = {
@@ -7545,28 +8020,6 @@
 			productReference = 88D55FF02C7F6E100046A105 /* BJ2493 */;
 			productType = "com.apple.product-type.tool";
 		};
-		88D55FFF2C7F8B0E0046A105 /* BJ2504 */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 88D560042C7F8B0E0046A105 /* Build configuration list for PBXNativeTarget "BJ2504" */;
-			buildPhases = (
-				88D55FFC2C7F8B0E0046A105 /* Sources */,
-				88D55FFD2C7F8B0E0046A105 /* Frameworks */,
-				88D55FFE2C7F8B0E0046A105 /* CopyFiles */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				88D560012C7F8B0E0046A105 /* BJ2504 */,
-			);
-			name = BJ2504;
-			packageProductDependencies = (
-			);
-			productName = BJ2504;
-			productReference = 88D560002C7F8B0E0046A105 /* BJ2504 */;
-			productType = "com.apple.product-type.tool";
-		};
 		88D5600A2C7F9DB60046A105 /* BJ2010 */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 88D5600F2C7F9DB60046A105 /* Build configuration list for PBXNativeTarget "BJ2010" */;
@@ -7605,28 +8058,6 @@
 			productReference = 88D560162C7FA1790046A105 /* BJ2903 */;
 			productType = "com.apple.product-type.tool";
 		};
-		88D5603C2C7FB01B0046A105 /* BJ2503 */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 88D560432C7FB01B0046A105 /* Build configuration list for PBXNativeTarget "BJ2503" */;
-			buildPhases = (
-				88D560392C7FB01B0046A105 /* Sources */,
-				88D5603A2C7FB01B0046A105 /* Frameworks */,
-				88D5603B2C7FB01B0046A105 /* CopyFiles */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				88D5603E2C7FB01B0046A105 /* BJ2503 */,
-			);
-			name = BJ2503;
-			packageProductDependencies = (
-			);
-			productName = BJ2503;
-			productReference = 88D5603D2C7FB01B0046A105 /* BJ2503 */;
-			productType = "com.apple.product-type.tool";
-		};
 		88DC0B222C53A0A10090B1FA /* BJ1158-1 */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 88DC0B272C53A0A10090B1FA /* Build configuration list for PBXNativeTarget "BJ1158-1" */;
@@ -7646,6 +8077,101 @@
 			productReference = 88DC0B232C53A0A10090B1FA /* BJ1158-1 */;
 			productType = "com.apple.product-type.tool";
 		};
+		88DE23342CA68DD800D07972 /* BJ1436Cpp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 88DE233B2CA68DD800D07972 /* Build configuration list for PBXNativeTarget "BJ1436Cpp" */;
+			buildPhases = (
+				88DE23312CA68DD800D07972 /* Sources */,
+				88DE23322CA68DD800D07972 /* Frameworks */,
+				88DE23332CA68DD800D07972 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BJ1436Cpp;
+			packageProductDependencies = (
+			);
+			productName = BJ1436Cpp;
+			productReference = 88DE23352CA68DD800D07972 /* BJ1436Cpp */;
+			productType = "com.apple.product-type.tool";
+		};
+		88DEAA9D2C9D0DB500FE7BC3 /* BJ1629 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 88DEAAA22C9D0DB600FE7BC3 /* Build configuration list for PBXNativeTarget "BJ1629" */;
+			buildPhases = (
+				88DEAA9A2C9D0DB500FE7BC3 /* Sources */,
+				88DEAA9B2C9D0DB500FE7BC3 /* Frameworks */,
+				88DEAA9C2C9D0DB500FE7BC3 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BJ1629;
+			packageProductDependencies = (
+			);
+			productName = BJ1629;
+			productReference = 88DEAA9E2C9D0DB500FE7BC3 /* BJ1629 */;
+			productType = "com.apple.product-type.tool";
+		};
+		88F6A5942D54B29200BE5EED /* BJ1074 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 88F6A5992D54B29200BE5EED /* Build configuration list for PBXNativeTarget "BJ1074" */;
+			buildPhases = (
+				88F6A5912D54B29200BE5EED /* Sources */,
+				88F6A5922D54B29200BE5EED /* Frameworks */,
+				88F6A5932D54B29200BE5EED /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BJ1074;
+			packageProductDependencies = (
+			);
+			productName = BJ1074;
+			productReference = 88F6A5952D54B29200BE5EED /* BJ1074 */;
+			productType = "com.apple.product-type.tool";
+		};
+		88F6A5A22D54C68600BE5EED /* BJ1780 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 88F6A5A72D54C68600BE5EED /* Build configuration list for PBXNativeTarget "BJ1780" */;
+			buildPhases = (
+				88F6A59F2D54C68600BE5EED /* Sources */,
+				88F6A5A02D54C68600BE5EED /* Frameworks */,
+				88F6A5A12D54C68600BE5EED /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BJ1780;
+			packageProductDependencies = (
+			);
+			productName = BJ1780;
+			productReference = 88F6A5A32D54C68600BE5EED /* BJ1780 */;
+			productType = "com.apple.product-type.tool";
+		};
+		88FC4EE82CAFD998002F89B0 /* BJ1010 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 88FC4EEF2CAFD998002F89B0 /* Build configuration list for PBXNativeTarget "BJ1010" */;
+			buildPhases = (
+				88FC4EE52CAFD998002F89B0 /* Sources */,
+				88FC4EE62CAFD998002F89B0 /* Frameworks */,
+				88FC4EE72CAFD998002F89B0 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BJ1010;
+			packageProductDependencies = (
+			);
+			productName = BJ1010;
+			productReference = 88FC4EE92CAFD998002F89B0 /* BJ1010 */;
+			productType = "com.apple.product-type.tool";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -7653,7 +8179,7 @@
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastUpgradeCheck = 1540;
+				LastUpgradeCheck = 1600;
 				TargetAttributes = {
 					88075EF22C575BBF0060FDC2 = {
 						CreatedOnToolsVersion = 16.0;
@@ -7669,6 +8195,9 @@
 					};
 					88075F422C5922860060FDC2 = {
 						CreatedOnToolsVersion = 16.0;
+					};
+					8808D28C2C80FE0500FC5177 = {
+						CreatedOnToolsVersion = 16.1;
 					};
 					881197C92C4128C800CC1E69 = {
 						CreatedOnToolsVersion = 15.4;
@@ -7690,6 +8219,18 @@
 					};
 					88154A382C662E3800146EF7 = {
 						CreatedOnToolsVersion = 16.0;
+					};
+					8815E51E2C857CA400859DF6 = {
+						CreatedOnToolsVersion = 16.1;
+					};
+					8815E53A2C858EFB00859DF6 = {
+						CreatedOnToolsVersion = 16.1;
+					};
+					8815E5452C8596BC00859DF6 = {
+						CreatedOnToolsVersion = 16.1;
+					};
+					8815E5902C85BF5C00859DF6 = {
+						CreatedOnToolsVersion = 16.1;
 					};
 					881699EF2C22AA16004C71F6 = {
 						CreatedOnToolsVersion = 15.4;
@@ -7946,6 +8487,9 @@
 					883381AF2C6F1B9800DCF446 = {
 						CreatedOnToolsVersion = 16.0;
 					};
+					883EC6CC2C83286300F8647D = {
+						CreatedOnToolsVersion = 16.1;
+					};
 					884420382C70838900BD809A = {
 						CreatedOnToolsVersion = 16.1;
 					};
@@ -7965,9 +8509,6 @@
 						CreatedOnToolsVersion = 16.1;
 					};
 					8844209A2C747D5D00BD809A = {
-						CreatedOnToolsVersion = 16.1;
-					};
-					884420B32C74B87D00BD809A = {
 						CreatedOnToolsVersion = 16.1;
 					};
 					885F87742C3031BD00993F44 = {
@@ -8075,10 +8616,19 @@
 					886A4BC82C3EA24700D7A2A1 = {
 						CreatedOnToolsVersion = 15.4;
 					};
-					88B54C0F2C4817EF004835A3 = {
-						CreatedOnToolsVersion = 15.4;
+					8870415F2CA4F82000FEE356 = {
+						CreatedOnToolsVersion = 16.0;
 					};
-					88B54C3B2C48F36D004835A3 = {
+					88975F182D4DE01E00CE5B90 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					889DD0EA2CD0AF47003D510A = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					889DD0F52CD0AF7C003D510A = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					88B54C0F2C4817EF004835A3 = {
 						CreatedOnToolsVersion = 15.4;
 					};
 					88C372832C50F6290087141E = {
@@ -8138,19 +8688,28 @@
 					88D55FEF2C7F6E100046A105 = {
 						CreatedOnToolsVersion = 16.1;
 					};
-					88D55FFF2C7F8B0E0046A105 = {
-						CreatedOnToolsVersion = 16.1;
-					};
 					88D5600A2C7F9DB60046A105 = {
 						CreatedOnToolsVersion = 16.1;
 					};
 					88D560152C7FA1790046A105 = {
 						CreatedOnToolsVersion = 16.1;
 					};
-					88D5603C2C7FB01B0046A105 = {
-						CreatedOnToolsVersion = 16.1;
-					};
 					88DC0B222C53A0A10090B1FA = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					88DE23342CA68DD800D07972 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					88DEAA9D2C9D0DB500FE7BC3 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					88F6A5942D54B29200BE5EED = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					88F6A5A22D54C68600BE5EED = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					88FC4EE82CAFD998002F89B0 = {
 						CreatedOnToolsVersion = 16.0;
 					};
 				};
@@ -8294,7 +8853,6 @@
 				882B723A2C4525FB008208BB /* BJ10814 */,
 				882B72452C453C60008208BB /* BJ1018 */,
 				88B54C0F2C4817EF004835A3 /* BJ1920 */,
-				88B54C3B2C48F36D004835A3 /* BJ11005 */,
 				88C372832C50F6290087141E /* BJ4344 */,
 				88DC0B222C53A0A10090B1FA /* BJ1158-1 */,
 				88075EF22C575BBF0060FDC2 /* BJ1158-2 */,
@@ -8328,12 +8886,24 @@
 				884420842C743DA900BD809A /* BJ2493C */,
 				8844208F2C746B7400BD809A /* BJ10845-2 */,
 				8844209A2C747D5D00BD809A /* BJ2161 */,
-				884420B32C74B87D00BD809A /* BJ2110 */,
 				88D55FEF2C7F6E100046A105 /* BJ2493 */,
-				88D55FFF2C7F8B0E0046A105 /* BJ2504 */,
 				88D5600A2C7F9DB60046A105 /* BJ2010 */,
 				88D560152C7FA1790046A105 /* BJ2903 */,
-				88D5603C2C7FB01B0046A105 /* BJ2503 */,
+				8808D28C2C80FE0500FC5177 /* BJ10816 */,
+				883EC6CC2C83286300F8647D /* BJ2908 */,
+				8815E51E2C857CA400859DF6 /* BJ12789 */,
+				8815E53A2C858EFB00859DF6 /* BJ1157 */,
+				8815E5452C8596BC00859DF6 /* BJ10815 */,
+				8815E5902C85BF5C00859DF6 /* BJ1193 */,
+				88DEAA9D2C9D0DB500FE7BC3 /* BJ1629 */,
+				8870415F2CA4F82000FEE356 /* BJ2630 */,
+				88DE23342CA68DD800D07972 /* BJ1436Cpp */,
+				88FC4EE82CAFD998002F89B0 /* BJ1010 */,
+				889DD0EA2CD0AF47003D510A /* BJ9655-2 */,
+				889DD0F52CD0AF7C003D510A /* BJ9655-1 */,
+				88975F182D4DE01E00CE5B90 /* BJ10988 */,
+				88F6A5942D54B29200BE5EED /* BJ1074 */,
+				88F6A5A22D54C68600BE5EED /* BJ1780 */,
 			);
 		};
 /* End PBXProject section */
@@ -8376,6 +8946,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				88075F4C2C59228E0060FDC2 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8808D2892C80FE0500FC5177 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8808D2962C81014200FC5177 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -8432,6 +9010,37 @@
 			buildActionMask = 2147483647;
 			files = (
 				883381AB2C6F1B7400DCF446 /* timeout.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8815E51B2C857CA400859DF6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8815E52B2C85855300859DF6 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8815E5372C858EFB00859DF6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8815E56D2C85B47800859DF6 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8815E5422C8596BC00859DF6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8815E58D2C85BF5C00859DF6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8815E59A2C85C3B300859DF6 /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -9108,6 +9717,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		883EC6C92C83286300F8647D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8815E5282C857CAC00859DF6 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		884420352C70838900BD809A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -9159,13 +9776,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				884420A42C7484A200BD809A /* main.c in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		884420B02C74B87D00BD809A /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -9449,19 +10059,43 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		8870415C2CA4F82000FEE356 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				887041692CA503ED00FEE356 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		88975F152D4DE01E00CE5B90 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				88975F222D4DE02F00CE5B90 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		889DD0E72CD0AF47003D510A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				889DD1022CD0AFB6003D510A /* solve2.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		889DD0F22CD0AF7C003D510A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				889DD1042CD0AFB6003D510A /* solve1.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		88B54C0C2C4817EF004835A3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				88B54C132C4817EF004835A3 /* main.c in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		88B54C382C48F36D004835A3 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				88B54C3F2C48F36D004835A3 /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -9617,13 +10251,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		88D55FFC2C7F8B0E0046A105 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		88D560072C7F9DB60046A105 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -9640,18 +10267,51 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		88D560392C7FB01B0046A105 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		88DC0B1F2C53A0A10090B1FA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				88075F2E2C57B99D0060FDC2 /* solve1.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		88DE23312CA68DD800D07972 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				88DE23382CA68DD800D07972 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		88DEAA9A2C9D0DB500FE7BC3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8870416C2CA5040800FEE356 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		88F6A5912D54B29200BE5EED /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				88F6A59E2D54B2C900BE5EED /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		88F6A59F2D54C68600BE5EED /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				88F6A5AC2D54C6B200BE5EED /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		88FC4EE52CAFD998002F89B0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				88FC4EF22CAFF08A002F89B0 /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -9662,6 +10322,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -9674,6 +10335,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -9686,6 +10348,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -9698,6 +10361,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -9710,6 +10374,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -9722,6 +10387,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -9734,6 +10400,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -9746,6 +10413,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -9758,6 +10426,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -9770,9 +10439,36 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		8808D2912C80FE0500FC5177 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		8808D2922C80FE0500FC5177 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
 			};
@@ -9782,6 +10478,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -9794,6 +10491,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -9806,6 +10504,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -9818,6 +10517,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -9830,6 +10530,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -9842,6 +10543,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -9854,6 +10556,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -9866,6 +10569,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -9878,6 +10582,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -9890,6 +10595,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -9902,6 +10608,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -9914,6 +10621,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -9926,6 +10634,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -9938,9 +10647,114 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		8815E5232C857CA400859DF6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		8815E5242C857CA400859DF6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		8815E5402C858EFB00859DF6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		8815E5412C858EFB00859DF6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		8815E54B2C8596BC00859DF6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		8815E54C2C8596BC00859DF6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		8815E5952C85BF5C00859DF6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		8815E5962C85BF5C00859DF6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
 			};
@@ -9980,6 +10794,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -10039,6 +10854,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -10061,6 +10877,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUGGING_SYMBOLS = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEVELOPMENT_TEAM = PS2475WLUX;
@@ -10076,6 +10893,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				OTHER_CFLAGS = "";
@@ -10088,6 +10906,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10100,6 +10919,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10112,6 +10932,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10124,6 +10945,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10136,6 +10958,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10148,6 +10971,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10160,6 +10984,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10172,6 +10997,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10184,6 +11010,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10196,6 +11023,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10208,6 +11036,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10220,6 +11049,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10232,6 +11062,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10244,6 +11075,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10256,6 +11088,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10268,6 +11101,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10280,6 +11114,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10292,6 +11127,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10304,6 +11140,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10316,6 +11153,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10328,6 +11166,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10340,6 +11179,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10352,6 +11192,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10364,6 +11205,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10376,6 +11218,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10388,6 +11231,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10400,6 +11244,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10412,6 +11257,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10424,6 +11270,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10436,6 +11283,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10448,6 +11296,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10460,6 +11309,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10472,6 +11322,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10484,6 +11335,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10496,6 +11348,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10508,6 +11361,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10520,6 +11374,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10532,6 +11387,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10544,6 +11400,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10556,6 +11413,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10568,6 +11426,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10580,6 +11439,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10592,6 +11452,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10604,6 +11465,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10616,6 +11478,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10628,6 +11491,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10640,6 +11504,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10652,6 +11517,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10664,6 +11530,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10676,6 +11543,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10688,6 +11556,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10700,6 +11569,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10712,6 +11582,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10724,6 +11595,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10736,6 +11608,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10748,6 +11621,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10760,6 +11634,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10772,6 +11647,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10784,6 +11660,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10796,6 +11673,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10808,6 +11686,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10820,6 +11699,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10832,6 +11712,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10844,6 +11725,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10856,6 +11738,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10868,6 +11751,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10880,6 +11764,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10892,6 +11777,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10904,6 +11790,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10916,6 +11803,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10928,6 +11816,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10940,6 +11829,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10952,6 +11842,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10964,6 +11855,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10976,6 +11868,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -10988,6 +11881,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11000,6 +11894,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11012,6 +11907,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11024,6 +11920,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11036,6 +11933,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11048,6 +11946,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11060,6 +11959,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11072,6 +11972,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11084,6 +11985,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11096,6 +11998,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11108,6 +12011,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11120,6 +12024,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11132,6 +12037,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11144,6 +12050,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11156,6 +12063,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11168,6 +12076,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11180,6 +12089,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11192,6 +12102,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11204,6 +12115,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11216,6 +12128,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11228,6 +12141,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11240,6 +12154,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11252,6 +12167,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11264,6 +12180,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11276,6 +12193,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11288,6 +12206,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11300,6 +12219,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11312,6 +12232,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11324,6 +12245,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11336,6 +12258,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11348,6 +12271,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11360,6 +12284,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11372,6 +12297,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11384,6 +12310,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11396,6 +12323,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11408,6 +12336,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11420,6 +12349,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11432,6 +12362,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11444,6 +12375,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11456,6 +12388,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11468,6 +12401,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11480,6 +12414,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11492,6 +12427,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11504,6 +12440,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11516,6 +12453,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11528,6 +12466,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11540,6 +12479,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11552,6 +12492,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11564,6 +12505,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11576,6 +12518,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11588,6 +12531,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11600,6 +12544,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11612,6 +12557,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11624,6 +12570,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11636,6 +12583,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11648,6 +12596,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11660,6 +12609,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11672,6 +12622,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11684,6 +12635,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11696,6 +12648,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11708,6 +12661,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11720,6 +12674,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11732,6 +12687,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11744,6 +12700,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11756,6 +12713,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11768,6 +12726,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11780,6 +12739,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11792,6 +12752,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11804,6 +12765,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11816,6 +12778,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11828,6 +12791,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11840,6 +12804,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11852,6 +12817,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11864,6 +12830,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11876,6 +12843,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11888,6 +12856,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11900,6 +12869,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11912,6 +12882,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11924,6 +12895,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11936,6 +12908,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11948,6 +12921,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11960,6 +12934,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11972,6 +12947,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11984,6 +12960,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -11996,6 +12973,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12008,6 +12986,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12020,6 +12999,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12032,6 +13012,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12044,6 +13025,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12056,6 +13038,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12068,6 +13051,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12080,6 +13064,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -12092,9 +13077,36 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		883EC6D22C83286300F8647D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		883EC6D32C83286300F8647D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
 			};
@@ -12104,6 +13116,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
@@ -12116,6 +13129,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
@@ -12128,6 +13142,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
@@ -12140,6 +13155,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
@@ -12152,6 +13168,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
@@ -12164,6 +13181,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
@@ -12176,6 +13194,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
@@ -12188,6 +13207,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
@@ -12200,6 +13220,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
@@ -12212,6 +13233,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
@@ -12224,6 +13246,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
@@ -12236,6 +13259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
@@ -12248,6 +13272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
@@ -12260,30 +13285,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = PS2475WLUX;
-				ENABLE_HARDENED_RUNTIME = YES;
-				MACOSX_DEPLOYMENT_TARGET = 15.1;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx;
-			};
-			name = Release;
-		};
-		884420B92C74B87D00BD809A /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = PS2475WLUX;
-				ENABLE_HARDENED_RUNTIME = YES;
-				MACOSX_DEPLOYMENT_TARGET = 15.1;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx;
-			};
-			name = Debug;
-		};
-		884420BA2C74B87D00BD809A /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
@@ -12296,6 +13298,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12308,6 +13311,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12320,6 +13324,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12332,6 +13337,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12344,6 +13350,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12356,6 +13363,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12368,6 +13376,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12380,6 +13389,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12392,6 +13402,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12404,6 +13415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12416,6 +13428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12428,6 +13441,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12440,6 +13454,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12452,6 +13467,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12464,6 +13480,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12476,6 +13493,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12488,6 +13506,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12500,6 +13519,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12512,6 +13532,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12524,6 +13545,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12536,6 +13558,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12548,6 +13571,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12560,6 +13584,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12572,6 +13597,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12584,6 +13610,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12596,6 +13623,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12608,6 +13636,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12620,6 +13649,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12632,6 +13662,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12644,6 +13675,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12656,6 +13688,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12668,6 +13701,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12680,6 +13714,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12692,6 +13727,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12704,6 +13740,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12716,6 +13753,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12728,6 +13766,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12740,6 +13779,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12752,6 +13792,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12764,6 +13805,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12776,6 +13818,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12788,6 +13831,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12800,6 +13844,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12812,6 +13857,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12824,6 +13870,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12836,6 +13883,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12848,6 +13896,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12860,6 +13909,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12872,6 +13922,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12884,6 +13935,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12896,6 +13948,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12908,6 +13961,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12920,6 +13974,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12932,6 +13987,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12944,6 +14000,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12956,6 +14013,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12968,6 +14026,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12980,6 +14039,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -12992,6 +14052,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -13004,6 +14065,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -13016,6 +14078,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -13028,6 +14091,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -13040,6 +14104,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -13052,6 +14117,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -13064,6 +14130,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -13076,6 +14143,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -13088,6 +14156,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -13100,6 +14169,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -13112,6 +14182,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -13124,9 +14195,106 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		887041642CA4F82000FEE356 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		887041652CA4F82000FEE356 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		88975F1D2D4DE01E00CE5B90 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		88975F1E2D4DE01E00CE5B90 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		889DD0EF2CD0AF48003D510A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		889DD0F02CD0AF48003D510A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		889DD0FB2CD0AF7D003D510A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		889DD0FC2CD0AF7D003D510A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
 			};
@@ -13136,6 +14304,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -13148,30 +14317,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = PS2475WLUX;
-				ENABLE_HARDENED_RUNTIME = YES;
-				MACOSX_DEPLOYMENT_TARGET = 14.5;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx;
-			};
-			name = Release;
-		};
-		88B54C402C48F36D004835A3 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = PS2475WLUX;
-				ENABLE_HARDENED_RUNTIME = YES;
-				MACOSX_DEPLOYMENT_TARGET = 14.5;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx;
-			};
-			name = Debug;
-		};
-		88B54C412C48F36D004835A3 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 14.5;
@@ -13184,6 +14330,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13196,6 +14343,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13208,6 +14356,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13220,6 +14369,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13232,6 +14382,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13244,6 +14395,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13256,6 +14408,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13268,6 +14421,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13280,6 +14434,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13292,6 +14447,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13304,6 +14460,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13316,6 +14473,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13328,6 +14486,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13340,6 +14499,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13352,6 +14512,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13364,6 +14525,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13376,6 +14538,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13388,6 +14551,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13400,6 +14564,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13412,6 +14577,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13424,6 +14590,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13436,6 +14603,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13448,6 +14616,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13460,6 +14629,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13472,6 +14642,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13484,6 +14655,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13496,6 +14668,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13508,6 +14681,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13520,6 +14694,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13532,6 +14707,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13544,6 +14720,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13556,6 +14733,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13568,6 +14746,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13580,6 +14759,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13592,6 +14772,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13604,6 +14785,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13616,6 +14798,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
@@ -13628,30 +14811,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = PS2475WLUX;
-				ENABLE_HARDENED_RUNTIME = YES;
-				MACOSX_DEPLOYMENT_TARGET = 15.1;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx;
-			};
-			name = Release;
-		};
-		88D560052C7F8B0E0046A105 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = PS2475WLUX;
-				ENABLE_HARDENED_RUNTIME = YES;
-				MACOSX_DEPLOYMENT_TARGET = 15.1;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx;
-			};
-			name = Debug;
-		};
-		88D560062C7F8B0E0046A105 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
@@ -13664,6 +14824,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
@@ -13676,6 +14837,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
@@ -13688,6 +14850,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
@@ -13700,30 +14863,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = PS2475WLUX;
-				ENABLE_HARDENED_RUNTIME = YES;
-				MACOSX_DEPLOYMENT_TARGET = 15.1;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx;
-			};
-			name = Release;
-		};
-		88D560412C7FB01B0046A105 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = PS2475WLUX;
-				ENABLE_HARDENED_RUNTIME = YES;
-				MACOSX_DEPLOYMENT_TARGET = 15.1;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = macosx;
-			};
-			name = Debug;
-		};
-		88D560422C7FB01B0046A105 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.1;
@@ -13736,6 +14876,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = PS2475WLUX;
 				ENABLE_HARDENED_RUNTIME = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
@@ -13745,6 +14886,127 @@
 			name = Debug;
 		};
 		88DC0B292C53A0A10090B1FA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		88DE23392CA68DD800D07972 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		88DE233A2CA68DD800D07972 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		88DEAAA32C9D0DB600FE7BC3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		88DEAAA42C9D0DB600FE7BC3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		88F6A59A2D54B29200BE5EED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		88F6A59B2D54B29200BE5EED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		88F6A5A82D54C68600BE5EED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		88F6A5A92D54C68600BE5EED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.2;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		88FC4EED2CAFD998002F89B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = PS2475WLUX;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		88FC4EEE2CAFD998002F89B0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -13800,6 +15062,15 @@
 			buildConfigurations = (
 				88075F472C5922860060FDC2 /* Debug */,
 				88075F482C5922860060FDC2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8808D2932C80FE0500FC5177 /* Build configuration list for PBXNativeTarget "BJ10816" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8808D2912C80FE0500FC5177 /* Debug */,
+				8808D2922C80FE0500FC5177 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -13863,6 +15134,42 @@
 			buildConfigurations = (
 				88154A3D2C662E3900146EF7 /* Debug */,
 				88154A3E2C662E3900146EF7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8815E5252C857CA400859DF6 /* Build configuration list for PBXNativeTarget "BJ12789" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8815E5232C857CA400859DF6 /* Debug */,
+				8815E5242C857CA400859DF6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8815E53F2C858EFB00859DF6 /* Build configuration list for PBXNativeTarget "BJ1157" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8815E5402C858EFB00859DF6 /* Debug */,
+				8815E5412C858EFB00859DF6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8815E54A2C8596BC00859DF6 /* Build configuration list for PBXNativeTarget "BJ10815" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8815E54B2C8596BC00859DF6 /* Debug */,
+				8815E54C2C8596BC00859DF6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8815E5972C85BF5C00859DF6 /* Build configuration list for PBXNativeTarget "BJ1193" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8815E5952C85BF5C00859DF6 /* Debug */,
+				8815E5962C85BF5C00859DF6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -14641,6 +15948,15 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		883EC6D12C83286300F8647D /* Build configuration list for PBXNativeTarget "BJ2908" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				883EC6D22C83286300F8647D /* Debug */,
+				883EC6D32C83286300F8647D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		8844203F2C70838900BD809A /* Build configuration list for PBXNativeTarget "Test" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -14700,15 +16016,6 @@
 			buildConfigurations = (
 				884420A02C747D5D00BD809A /* Debug */,
 				884420A12C747D5D00BD809A /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		884420B82C74B87D00BD809A /* Build configuration list for PBXNativeTarget "BJ2110" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				884420B92C74B87D00BD809A /* Debug */,
-				884420BA2C74B87D00BD809A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -15028,20 +16335,47 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		887041662CA4F82000FEE356 /* Build configuration list for PBXNativeTarget "BJ2630" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				887041642CA4F82000FEE356 /* Debug */,
+				887041652CA4F82000FEE356 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		88975F1F2D4DE01E00CE5B90 /* Build configuration list for PBXNativeTarget "BJ10988" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				88975F1D2D4DE01E00CE5B90 /* Debug */,
+				88975F1E2D4DE01E00CE5B90 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		889DD0F12CD0AF48003D510A /* Build configuration list for PBXNativeTarget "BJ9655-2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				889DD0EF2CD0AF48003D510A /* Debug */,
+				889DD0F02CD0AF48003D510A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		889DD0FA2CD0AF7D003D510A /* Build configuration list for PBXNativeTarget "BJ9655-1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				889DD0FB2CD0AF7D003D510A /* Debug */,
+				889DD0FC2CD0AF7D003D510A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		88B54C162C4817EF004835A3 /* Build configuration list for PBXNativeTarget "BJ1920" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				88B54C142C4817EF004835A3 /* Debug */,
 				88B54C152C4817EF004835A3 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		88B54C422C48F36D004835A3 /* Build configuration list for PBXNativeTarget "BJ11005" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				88B54C402C48F36D004835A3 /* Debug */,
-				88B54C412C48F36D004835A3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -15217,15 +16551,6 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		88D560042C7F8B0E0046A105 /* Build configuration list for PBXNativeTarget "BJ2504" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				88D560052C7F8B0E0046A105 /* Debug */,
-				88D560062C7F8B0E0046A105 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		88D5600F2C7F9DB60046A105 /* Build configuration list for PBXNativeTarget "BJ2010" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -15244,20 +16569,56 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		88D560432C7FB01B0046A105 /* Build configuration list for PBXNativeTarget "BJ2503" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				88D560412C7FB01B0046A105 /* Debug */,
-				88D560422C7FB01B0046A105 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		88DC0B272C53A0A10090B1FA /* Build configuration list for PBXNativeTarget "BJ1158-1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				88DC0B282C53A0A10090B1FA /* Debug */,
 				88DC0B292C53A0A10090B1FA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		88DE233B2CA68DD800D07972 /* Build configuration list for PBXNativeTarget "BJ1436Cpp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				88DE23392CA68DD800D07972 /* Debug */,
+				88DE233A2CA68DD800D07972 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		88DEAAA22C9D0DB600FE7BC3 /* Build configuration list for PBXNativeTarget "BJ1629" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				88DEAAA32C9D0DB600FE7BC3 /* Debug */,
+				88DEAAA42C9D0DB600FE7BC3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		88F6A5992D54B29200BE5EED /* Build configuration list for PBXNativeTarget "BJ1074" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				88F6A59A2D54B29200BE5EED /* Debug */,
+				88F6A59B2D54B29200BE5EED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		88F6A5A72D54C68600BE5EED /* Build configuration list for PBXNativeTarget "BJ1780" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				88F6A5A82D54C68600BE5EED /* Debug */,
+				88F6A5A92D54C68600BE5EED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		88FC4EEF2CAFD998002F89B0 /* Build configuration list for PBXNativeTarget "BJ1010" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				88FC4EED2CAFD998002F89B0 /* Debug */,
+				88FC4EEE2CAFD998002F89B0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

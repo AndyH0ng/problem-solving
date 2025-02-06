@@ -2,7 +2,7 @@
 //  이항 계수 1
 //  BJ11050
 //
-//  Created by 홍준우 on 7/29/24.
+//  Created by 준우 on 7/29/24.
 //
 
 #include <stdio.h>

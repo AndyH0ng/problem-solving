@@ -2,16 +2,16 @@
 //  main.c
 //  BJ2108
 //
-//  Created by 홍준우 on 6/24/24.
+//  Created by 준우 on 6/24/24.
 //
 
 #include <stdio.h>
 #include <math.h>
 
-int average(int n, int arr[]);
-int median(int n, int arr[]);
-int mode(int n, int arr[]);
-int range(int n, int arr[]);
+int average(int n, int *arr);
+int median(int n, int *arr);
+int mode(int n, int *arr);
+int range(int n, int *arr);
 
 int main(void) {
     int n;
@@ -27,14 +27,14 @@ int main(void) {
     return 0;
 }
 
-int average(int n, int arr[]) {
+int average(int n, int *arr) {
     double total = 0;
     for (int i = 0; i < n; i++)
         total += arr[i];
     return (int) round(total / n);
 }
 
-int median(int n, int arr[]) {
+int median(int n, int *arr) {
     for (int j = 1; j < n; j++) {
         int key = arr[j];
         int i = j - 1;
@@ -47,7 +47,7 @@ int median(int n, int arr[]) {
     return arr[(n - 1) / 2];
 }
 
-int mode(int n, int arr[]) {
+int mode(int n, int *arr) {
     int num[8001] = {0, };
     int tmp0 = 0, tmp1 = 0, tmp2;
     for (int i = 0; i < n; i++) {
@@ -69,6 +69,6 @@ int mode(int n, int arr[]) {
     else return tmp1 - 4000;
 }
 
-int range(int n, int arr[]) {
+int range(int n, int *arr) {
     return arr[n - 1] - arr[0];
 }

@@ -2,7 +2,7 @@
 //  재귀의 귀재
 //  BJ25501
 //
-//  Created by 홍준우 on 7/5/24.
+//  Created by 준우 on 7/5/24.
 //
 
 #include <stdio.h>

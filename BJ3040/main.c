@@ -2,7 +2,7 @@
 //  백설 공주와 일곱 난쟁이
 //  BJ3040
 //
-//  Created by 홍준우 on 8/8/24.
+//  Created by 준우 on 8/8/24.
 //
 
 #include <stdio.h>

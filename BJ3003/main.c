@@ -2,7 +2,7 @@
 //  킹, 퀸, 룩, 비숍, 나이트, 폰
 //  BJ3003
 //
-//  Created by 홍준우 on 8/7/24.
+//  Created by 준우 on 8/7/24.
 //
 
 #include <stdio.h>

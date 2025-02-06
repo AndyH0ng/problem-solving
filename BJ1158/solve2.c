@@ -2,7 +2,7 @@
 //  요세푸스 문제
 //  BJ1158
 //
-//  Created by 홍준우 on 7/26/24.
+//  Created by 준우 on 7/26/24.
 //
 
 #include <stdio.h>

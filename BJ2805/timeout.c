@@ -2,7 +2,7 @@
 //  나무 자르기 (시간 초과)
 //  BJ2805
 //
-//  Created by 홍준우 on 8/9/24.
+//  Created by 준우 on 8/9/24.
 //
 
 #include <stdio.h>

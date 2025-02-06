@@ -2,7 +2,7 @@
 //  평균은 넘겠지
 //  BJ4344
 //
-//  Created by 홍준우 on 7/24/24.
+//  Created by 준우 on 7/24/24.
 //
 
 #include <stdio.h>

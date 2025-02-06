@@ -2,7 +2,7 @@
 #  너의 평점은
 #  BJ25206
 #
-#  Created by 홍준우 on 7/14/24.
+#  Created by 준우 on 7/14/24.
 #
 
 total = div = 0

@@ -2,13 +2,13 @@
 //  수 정렬하기 2
 //  BJ2751
 //
-//  Created by 홍준우 on 8/8/24.
+//  Created by 준우 on 8/8/24.
 //
 
 #include <stdio.h>
 
-void merge(int *lst, int LT, int MID, int RT);
-void mergeSort(int *lst, int LT, int RT);
+void merge(int *lst, int L, int M, int R);
+void mergeSort(int *lst, int L, int R);
 
 int main(void) {
     int n;
@@ -20,23 +20,23 @@ int main(void) {
     return 0;
 }
 
-void merge(int *lst, int LT, int MID, int RT) {
-    int tmp[RT - LT + 1];
-    int i = LT, j = MID + 1, k = 0;
-    while (i <= MID && j <= RT) {
+void merge(int *lst, int L, int M, int R) {
+    int tmp[R - L + 1];
+    int i = L, j = M + 1, k = 0;
+    while (i <= M && j <= R) {
         if (lst[i] <= lst[j]) tmp[k++] = lst[i++];
         else tmp[k++] = lst[j++];
     }
-    while (i <= MID) tmp[k++] = lst[i++];
-    while (j <= RT) tmp[k++] = lst[j++];
-    for (i = LT, k = 0; i <= RT; i++, k++) lst[i] = tmp[k];
+    while (i <= M) tmp[k++] = lst[i++];
+    while (j <= R) tmp[k++] = lst[j++];
+    for (i = L, k = 0; i <= R; i++, k++) lst[i] = tmp[k];
 }
 
-void mergeSort(int *lst, int LT, int RT) {
-    if (LT < RT) {
-        int MID = (LT + RT) / 2;
-        mergeSort(lst, LT, MID);
-        mergeSort(lst, MID + 1, RT);
-        merge(lst, LT, MID, RT);
+void mergeSort(int *lst, int L, int R) {
+    if (L < R) {
+        int M = (L + R) / 2;
+        mergeSort(lst, L, M);
+        mergeSort(lst, M + 1, R);
+        merge(lst, L, M, R);
     }
 }

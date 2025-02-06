@@ -2,7 +2,7 @@
 //  다이얼
 //  BJ5622
 //
-//  Created by 홍준우 on 8/7/24.
+//  Created by 준우 on 8/7/24.
 //
 
 #include <stdio.h>

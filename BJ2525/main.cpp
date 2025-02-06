@@ -2,7 +2,7 @@
 //  오븐 시계
 //  BJ2525
 //
-//  Created by 홍준우 on 6/19/24.
+//  Created by 준우 on 6/19/24.
 //
 
 #include <iostream>

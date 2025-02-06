@@ -2,7 +2,7 @@
 //  숫자의 개수
 //  BJ2577
 //
-//  Created by 홍준우 on 6/20/24.
+//  Created by 준우 on 6/20/24.
 //
 
 #include <stdio.h>

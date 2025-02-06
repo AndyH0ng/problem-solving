@@ -2,7 +2,7 @@
 //  수 정렬하기 2 (시간 초과)
 //  BJ2751
 //
-//  Created by 홍준우 on 7/5/24.
+//  Created by 준우 on 7/5/24.
 //
 
 #include <stdio.h>

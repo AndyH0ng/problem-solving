@@ -2,15 +2,17 @@
 //  A + B - 4
 //  BJ10951
 //
-//  Created by 홍준우 on 6/19/24.
+//  Created by 준우 on 6/19/24.
 //
 
 #include <iostream>
 
+using namespace std;
+
 int main() {
     int a, b;
-    while (std::cin >> a >> b) {
-        std::cout << a + b << '\n';
+    while (cin >> a >> b) {
+        cout << a + b << '\n';
     }
     return 0;
 }

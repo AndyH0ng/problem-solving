@@ -2,7 +2,7 @@
 #  진법 변환
 #  BJ2745
 #
-#  Created by 홍준우 on 7/10/24.
+#  Created by 준우 on 7/10/24.
 #
 
 n, b = input().split()

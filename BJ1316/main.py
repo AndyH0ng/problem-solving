@@ -2,7 +2,7 @@
 #  그룹 단어 체커
 #  BJ1316
 #
-#  Created by 홍준우 on 7/18/24.
+#  Created by 준우 on 7/18/24.
 #
 
 import sys

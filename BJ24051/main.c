@@ -2,7 +2,7 @@
 //  알고리즘 수업 - 삽입 정렬 1
 //  BJ24051
 //
-//  Created by 홍준우 on 8/19/24.
+//  Created by 준우 on 8/19/24.
 //
 
 #include <stdio.h>

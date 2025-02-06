@@ -2,7 +2,7 @@
 #  주사위 세개
 #  BJ2480
 #
-#  Created by 홍준우 on 6/21/24.
+#  Created by 준우 on 6/21/24.
 #
 
 a, b, c = map(int, input().split())

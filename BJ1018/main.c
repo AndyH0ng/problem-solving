@@ -2,7 +2,7 @@
 //  체스판 다시 칠하기
 //  BJ1018
 //
-//  Created by 홍준우 on 7/15/24.
+//  Created by 준우 on 7/15/24.
 //
 
 #include <stdio.h>

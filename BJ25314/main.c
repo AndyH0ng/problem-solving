@@ -2,7 +2,7 @@
 //  코딩은 체육과목 입니다
 //  BJ25314
 //
-//  Created by 홍준우 on 8/7/24.
+//  Created by 준우 on 8/7/24.
 //
 
 #include <stdio.h>

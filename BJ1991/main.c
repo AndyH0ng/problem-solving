@@ -2,7 +2,7 @@
 //  트리 순회
 //  BJ1991
 //
-//  Created by 홍준우 on 7/29/24.
+//  Created by 준우 on 7/29/24.
 //
 
 #include <stdio.h>

@@ -2,7 +2,7 @@
 //  일곱 난쟁이
 //  BJ2309
 //
-//  Created by 홍준우 on 8/4/24.
+//  Created by 준우 on 8/4/24.
 //
 
 #include <stdio.h>

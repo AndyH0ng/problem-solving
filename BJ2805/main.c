@@ -2,7 +2,7 @@
 //  나무 자르기
 //  BJ2805
 //
-//  Created by 홍준우 on 8/16/24.
+//  Created by 준우 on 8/16/24.
 //
 
 #include <stdio.h>

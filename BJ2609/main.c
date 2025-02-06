@@ -2,7 +2,7 @@
 //  최대공약수와 최소공배수
 //  BJ2609
 //
-//  Created by 홍준우 on 7/29/24.
+//  Created by 준우 on 7/29/24.
 //
 
 #include <stdio.h>

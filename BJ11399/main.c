@@ -2,7 +2,7 @@
 //  ATM
 //  BJ11399
 //
-//  Created by 홍준우 on 7/13/24.
+//  Created by 준우 on 7/13/24.
 //
 
 #include <stdio.h>

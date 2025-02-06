@@ -2,7 +2,7 @@
 #  좌표 정렬하기
 #  BJ11650
 #
-#  Created by 홍준우 on 6/29/24.
+#  Created by 준우 on 6/29/24.
 #
 
 n = int(input())

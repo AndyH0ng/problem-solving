@@ -2,7 +2,7 @@
 //  최댓값
 //  BJ2566
 //
-//  Created by 홍준우 on 7/2/24.
+//  Created by 준우 on 7/2/24.
 //
 
 #include <stdio.h>

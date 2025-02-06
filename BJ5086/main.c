@@ -2,7 +2,7 @@
 //  배수와 약수
 //  BJ5086
 //
-//  Created by 홍준우 on 7/2/24.
+//  Created by 준우 on 7/2/24.
 //
 
 #include <stdio.h>

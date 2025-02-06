@@ -2,7 +2,7 @@
 //  알고리즘 수업 - 선택 정렬 1
 //  BJ23881
 //
-//  Created by 홍준우 on 8/8/24.
+//  Created by 준우 on 8/8/24.
 //
 
 #include <stdio.h>

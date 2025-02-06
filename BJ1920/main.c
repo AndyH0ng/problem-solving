@@ -2,7 +2,7 @@
 //  수 찾기
 //  BJ1920
 //
-//  Created by 홍준우 on 7/18/24.
+//  Created by 준우 on 7/18/24.
 //
 
 #include <stdio.h>

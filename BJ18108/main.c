@@ -2,7 +2,7 @@
 //  1998년생인 내가 태국에서는 2541년생?!
 //  BJ18108
 //
-//  Created by 홍준우 on 8/7/24.
+//  Created by 준우 on 8/7/24.
 //
 
 #include <stdio.h>

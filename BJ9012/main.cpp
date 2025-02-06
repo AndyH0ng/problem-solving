@@ -2,7 +2,7 @@
 //  괄호
 //  BJ9012
 //
-//  Created by 홍준우 on 7/10/24.
+//  Created by 준우 on 7/10/24.
 //
 
 #include <iostream>

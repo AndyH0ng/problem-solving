@@ -2,7 +2,7 @@
 //  과제 안 내신 분..?
 //  BJ5597
 //
-//  Created by 홍준우 on 6/19/24.
+//  Created by 준우 on 6/19/24.
 //
 
 #include <stdio.h>

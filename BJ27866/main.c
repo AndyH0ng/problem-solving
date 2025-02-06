@@ -2,7 +2,7 @@
 //  문자와 문자열
 //  BJ27866
 //
-//  Created by 홍준우 on 6/19/24.
+//  Created by 준우 on 6/19/24.
 //
 
 #include <stdio.h>

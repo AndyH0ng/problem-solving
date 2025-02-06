@@ -2,7 +2,7 @@
 #  피보나치 함수
 #  BJ1003
 #
-#  Created by 홍준우 on 7/13/24.
+#  Created by 준우 on 7/13/24.
 #
 
 import sys

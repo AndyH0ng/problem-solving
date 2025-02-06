@@ -2,7 +2,7 @@
 #  단어 정렬
 #  BJ1181
 #
-#  Created by 홍준우 on 6/26/24.
+#  Created by 준우 on 6/26/24.
 #
 
  words = [input() for _ in range(int(input()))]

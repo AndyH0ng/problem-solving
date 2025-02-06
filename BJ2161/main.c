@@ -2,7 +2,7 @@
 //  카드 1
 //  BJ2161
 //
-//  Created by 홍준우 on 8/20/24.
+//  Created by 준우 on 8/20/24.
 //
 
 #include <stdio.h>

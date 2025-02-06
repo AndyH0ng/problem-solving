@@ -2,7 +2,7 @@
 //  피보나치 수 5
 //  BJ10870
 //
-//  Created by 홍준우 on 7/5/24.
+//  Created by 준우 on 7/5/24.
 //
 
 #include <stdio.h>

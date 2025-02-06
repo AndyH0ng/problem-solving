@@ -2,7 +2,7 @@
 //  수들의 합 2
 //  BJ2003
 //
-//  Created by 홍준우 on 7/12/24.
+//  Created by 준우 on 7/12/24.
 //
 
 #include <stdio.h>

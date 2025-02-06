@@ -2,7 +2,7 @@
 //  문자열 반복
 //  BJ2675
 //
-//  Created by 홍준우 on 8/17/24.
+//  Created by 준우 on 8/17/24.
 //
 
 #include <stdio.h>

@@ -2,7 +2,7 @@
 //  바구니 뒤집기
 //  BJ10811
 //
-//  Created by 홍준우 on 6/21/24.
+//  Created by 준우 on 6/21/24.
 //
 
 #include <stdio.h>

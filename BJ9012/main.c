@@ -1,8 +1,9 @@
 //
 //  괄호
-//  BJ9012
+//  BJ
+
 //
-//  Created by 홍준우 on 8/7/24.
+//  Created by 준우 on 8/7/24.
 //
 
 #include <stdio.h>

@@ -2,7 +2,7 @@
 //  탑
 //  BJ2493
 //
-//  Created by 홍준우 on 8/28/24.
+//  Created by 준우 on 8/28/24.
 //
 
 #include <iostream>

@@ -2,7 +2,7 @@
 //  별 찍기 - 19
 //  BJ10994
 //
-//  Created by 홍준우 on 7/30/24.
+//  Created by 준우 on 7/30/24.
 //
 
 #include <stdio.h>

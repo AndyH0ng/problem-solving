@@ -2,7 +2,7 @@
 //  Hello World
 //  BJ2557
 //
-//  Created by 홍준우 on 8/29/24.
+//  Created by 준우 on 8/29/24.
 //
 
 section .data

@@ -2,7 +2,7 @@
 //  단어의 개수
 //  BJ1152
 //
-//  Created by 홍준우 on 6/27/24.
+//  Created by 준우 on 6/27/24.
 //
 
 #include <stdio.h>

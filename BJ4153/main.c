@@ -2,7 +2,7 @@
 //  직각삼각형
 //  BJ4153
 //
-//  Created by 홍준우 on 6/30/24.
+//  Created by 준우 on 6/30/24.
 //
 
 #include <stdio.h>

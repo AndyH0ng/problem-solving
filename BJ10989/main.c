@@ -2,7 +2,7 @@
 //  수 정렬하기 3
 //  BJ10989
 //
-//  Created by 홍준우 on 6/26/24.
+//  Created by 준우 on 6/26/24.
 //
 
 #include <stdio.h>

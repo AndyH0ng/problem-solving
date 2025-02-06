@@ -2,7 +2,7 @@
 #  수 정렬하기 2
 #  BJ2751
 #
-#  Created by 홍준우 on 7/11/24.
+#  Created by 준우 on 7/11/24.
 #
 
 import sys
