@@ -2,7 +2,7 @@
 //  main.c
 //  BJ
 //
-//  Created by 준우 on 6/19/24.
+//  Created by 준우 on ##/##/##.
 //
 
 #include <stdio.h>
