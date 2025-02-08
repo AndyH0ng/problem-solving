@@ -1,8 +1,8 @@
 //
-//  main.c
-//  BJ
+//  1, 2, 3 더하기
+//  BJ9095
 //
-//  Created by 준우 on ##/##/##.
+//  Created by 준우 on 2/8/25.
 //
 
 #include <stdio.h>
