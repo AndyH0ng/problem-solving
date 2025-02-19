@@ -1,74 +1,54 @@
 //
-//  main.c
+//  통계학
 //  BJ2108
 //
-//  Created by 준우 on 6/24/24.
+//  Created by 준우 on 2/19/25.
 //
 
 #include <stdio.h>
+#include <stdlib.h>
 #include <math.h>
 
-int average(int n, int *arr);
-int median(int n, int *arr);
-int mode(int n, int *arr);
-int range(int n, int *arr);
+int cmp(const void *a, const void *b) {
+    return *(int *)a - *(int *)b;
+}
+
+int average(int *arr, int n) {
+    int sum = 0;
+    for (int i = 0; i < n; i++) sum += arr[i];
+    return round((double)sum / n);
+}
+
+int median(int *arr, int n) { return arr[n / 2]; }
+
+int mode(int *arr, int n) {
+    int cnt[8001] = {0, };
+    int max = 0, mode = 0;
+    for (int i = 0; i < n; i++) cnt[arr[i] + 4000]++;
+    for (int i = 0; i < 8001; i++) {
+        if (cnt[i] > max) {
+            max = cnt[i];
+            mode = i - 4000;
+        }
+    }
+    for (int i = mode + 4001; i < 8001; i++) {
+        if (cnt[i] == max) return i - 4000;
+    }
+    return mode;
+}
+    
+int range(int *arr, int n) { return arr[n - 1] - arr[0]; }
 
 int main(void) {
     int n;
     scanf("%d", &n);
     int arr[n];
-    for (int i = 0; i < n; i++)
-        scanf("%d", &arr[i]);
+    for (int i = 0; i < n; i++) scanf("%d", &arr[i]);
+    qsort(arr, n, sizeof(int), cmp);
     printf("%d\n%d\n%d\n%d",
-           average(n, arr),
-           median(n, arr),
-           mode(n, arr),
-           range(n, arr));
+           average(arr, n),
+           median(arr, n),
+           mode(arr, n),
+           range(arr, n));
     return 0;
-}
-
-int average(int n, int *arr) {
-    double total = 0;
-    for (int i = 0; i < n; i++)
-        total += arr[i];
-    return (int) round(total / n);
-}
-
-int median(int n, int *arr) {
-    for (int j = 1; j < n; j++) {
-        int key = arr[j];
-        int i = j - 1;
-        while (i >= 0 && arr[i] > key) {
-            arr[i + 1] = arr[i];
-            i--;
-        }
-        arr[i + 1] = key;
-    }
-    return arr[(n - 1) / 2];
-}
-
-int mode(int n, int *arr) {
-    int num[8001] = {0, };
-    int tmp0 = 0, tmp1 = 0, tmp2;
-    for (int i = 0; i < n; i++) {
-        num[arr[i] + 4000]++;
-    }
-    for (int i = 8000; i >= 0; i--) {
-        if (num[i] > tmp0) tmp0 = i;
-        // TODO: 두 번째로 작은 최빈값
-        else if (num[i] == num[tmp0] && tmp0 != 0) {
-            tmp1 = i;
-            if (tmp1 < tmp0) {
-                tmp2 = tmp1;
-                tmp1 = tmp0;
-                tmp0 = tmp2;
-            }
-        }
-    }
-    if (tmp1 == 0) return tmp0 - 4000;
-    else return tmp1 - 4000;
-}
-
-int range(int n, int *arr) {
-    return arr[n - 1] - arr[0];
 }
